@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.congduy.landmonitoring">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            v
+        </activity>
+        <activity android:name=".viewNode" />
+        <activity android:name=".viewParameter" />
+        <activity android:name=".node1" />
+        <activity android:name=".node2" />
+        <activity android:name=".node3" />
+        <activity android:name=".node4" />
+        <activity android:name=".node5" />
+        <activity android:name=".node6" />
+        <activity android:name=".node7" />
+        <activity android:name=".node8" />
+        <activity android:name=".node9" />
+        <activity android:name=".node10" />
+        <activity android:name=".Temperature" />
+        <activity android:name=".Humidity" />
+        <activity android:name=".PH" />
+        <activity android:name=".Brightness" />
+        <activity android:name=".pin" />
+        <activity android:name=".soil_hum"></activity>
+        <activity android:name=".LineChartActivity"></activity>
+    </application>
+
+</manifest>

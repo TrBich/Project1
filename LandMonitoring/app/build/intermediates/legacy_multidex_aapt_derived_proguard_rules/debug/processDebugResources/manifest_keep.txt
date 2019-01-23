@@ -1,0 +1,2 @@
+# Referenced at E:\da1\LandMonitoring\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }

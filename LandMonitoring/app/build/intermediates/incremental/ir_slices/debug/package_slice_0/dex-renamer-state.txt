@@ -1,0 +1,4 @@
+#Wed Jan 23 12:25:02 ICT 2019
+base.0=E\:\\da1\\LandMonitoring\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
